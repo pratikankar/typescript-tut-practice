@@ -1,0 +1,1 @@
+///<reference path="p16_namespace_module.ts"/>
